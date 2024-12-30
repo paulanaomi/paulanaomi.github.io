@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-[Link to first post](./_posts/2024-12-30-welcome-to-my-portfolio.html).
+[Link to first post](./_posts./2024-12-30-welcome-to-my-portfolio.html).
 
 There should be whitespace between paragraphs.
 
