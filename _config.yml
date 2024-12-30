@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Paula Naomi's Portfolio
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: My portfolio page.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
