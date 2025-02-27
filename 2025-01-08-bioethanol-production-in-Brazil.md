@@ -5,7 +5,13 @@ title: Bioethanol production in Brazil (WIP)
 
 Brazil is one of the largest producers of fuel bioethanol in the world. In the past, the main sugar source for fuel ethanol was sugarcane, however, over the most recent years corn has steadily grown as an important complex sugar source for bioethanol production.
 
-In this workbook, data made available by ANP (Agência Nacional de Petróleo / National Oil Agency) is downloaded and organized into a pandas dataframe. The data will later be used and published in a dashboard as a public project on Power BI.
+<img src="https://github.com/paulanaomi/ethanol_data_Brazil_ANP/blob/master/figs/ranking_largest_ethanol_plants_2022.png?raw=true"/>
+
+<img src="https://github.com/paulanaomi/ethanol_data_Brazil_ANP/blob/master/figs/ranking_largest_ethanol_plants_2023.png?raw=true"/>
+
+<img src="https://github.com/paulanaomi/ethanol_data_Brazil_ANP/blob/master/figs/ranking_largest_ethanol_plants_2024.png?raw=true"/>
+
+Source: ANP (Agência Nacional de Petróleo / National Oil Agency) 
 
 [View project on Github](https://github.com/paulanaomi/ethanol_data_Brazil_ANP)
 
