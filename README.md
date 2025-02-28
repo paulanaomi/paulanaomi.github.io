@@ -1,6 +1,6 @@
 ### Hi there!
 
-Welcome to my page. I'm Paula, a Chemical Engineer that has spent the last 15 or so years working with data from industrial chemical plants. I have a master's and doctorate degree in Chemical Engineering specifically in modelling, simulation and control of industrial chemical processes. I currently work at a biotech startup creating digital solutions for monitoring and controlling industrial fermentation processes. My main areas of interest are mathematical modelling, simulation and data science.
+Welcome to my page. I'm Paula, a Chemical Engineer that has spent the last 15+ years working with data from industrial chemical plants. I have a master's and doctorate degree in Chemical Engineering specifically in modelling, simulation and control of industrial chemical processes. I currently work at a biotech startup creating digital solutions for monitoring and controlling industrial fermentation processes. My main areas of interest are mathematical modelling, simulation and data science.
 
 ### Languages and tools
 
