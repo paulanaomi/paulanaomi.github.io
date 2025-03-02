@@ -23,6 +23,8 @@ The changes in the ranking can be more easily observed in the ribbon charts belo
 
 <img src ="https://github.com/paulanaomi/ethanol_data_Brazil_ANP/blob/master/figs/ribbon_top_5_anhydrous_2020-2024.png?raw=true" /> **Fig 4 - Top 5 bioethanol plants in terms of anhydrous ethanol production (2020 ~ 2024, m3/day)**
 
+The ribbon charts show how the top 5 of each year fared in other years. This means that some plants in the top 10 in 2024, for example, might not show up in this data visualization if they did not make up the top 5 at any point between 2020 and 2025 (e.g. Pedra - Buriti ranked at #8 of hydrous plants in 2024, but doesn't show up in the ribbon chart since it didn't make up the top 5 between 2020 and 2024). _Fig 4_ and _Fig 5_ show a dynamic landscape, where corn ethanol is steadily growing in multiple sites.
+
 <img src ="https://github.com/paulanaomi/ethanol_data_Brazil_ANP/blob/master/figs/ribbon_top_5_hydrous_2020-2024.png?raw=true" /> **Fig 5 - Top 5 bioethanol plants in terms of hydrous ethanol production (2020 ~ 2024, m3/day)**
 
 Data source: https://www.gov.br/anp/pt-br/assuntos/producao-e-fornecimento-de-biocombustiveis/etanol/arquivos-etanol/pb-da-etanol.zip (Agência Nacional de Petróleo / National Oil Agency) Accessed on 07/01/25
