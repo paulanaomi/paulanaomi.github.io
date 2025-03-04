@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# Portfolio
+# Projects
 
 ---
-
-Welcome to my portfolio.  
 
 ## Bioethanol production in Brazil  
 ![Python](https://img.shields.io/badge/python-2D4E71?style=for-the-badge&logo=python&logoColor=white) 
