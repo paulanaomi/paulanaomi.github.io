@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-# Simplified simulation of yeast population growth
+## Simplified simulation of yeast population growth (WIP)
 ![Python](https://img.shields.io/badge/python-2D4E71?style=for-the-badge&logo=python&logoColor=white) 
 ![Python OOP](https://img.shields.io/badge/OOP-2D4E71?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23777778.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
